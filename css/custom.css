@@ -1,0 +1,80 @@
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900);
+
+
+body {
+    background-color: #131313;
+    padding-top: 103px;
+    font: 18px/21px 'Lato-Medium';
+  
+  }
+  
+  h1{
+    font: 32px 'BebasNeueRegular';
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  a{
+    text-decoration: none;
+  }
+  a:hover{
+    outline: none;
+    text-decoration: none;
+  }
+
+  .social  {
+    color: #c4c3ca;
+    transition: all 0.5s ease;
+  
+  }
+  
+  .social:hover {
+    color: #ffeba7;
+  }
+  
+.btn {
+  background-color: #ffeba7;
+  color: #102770;
+  border-radius: 4px;
+  height: 44px;
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: all 20ms linear;
+  padding: 0 30px;
+  letter-spacing: 1px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  border: none;
+  box-shadow: 0 4px 24px 0 rgba(255, 235, 167, 0.2);
+}
+
+.btn:hover {
+  background-color: #131313;
+  color: #ffeba7;
+
+  box-shadow: 0 8px 24px 0 rgba(16, 39, 112, 0.2);
+}
+
+.navbar {
+  height: 103px;
+
+}
+
+
+.navbar-collapse {
+
+
+  margin-top: 6px;
+
+
+
+}
+
+
